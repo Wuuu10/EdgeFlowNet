@@ -1,0 +1,27 @@
+# Core deep learning libraries
+torch>=1.8.0
+torchvision>=0.9.0
+
+# Essential data processing
+numpy>=1.19.0
+opencv-python>=4.5.0
+Pillow>=8.0.0
+
+# Visualization and plotting
+matplotlib>=3.3.0
+
+# Data analysis and manipulation
+pandas>=1.3.0
+
+# Progress bars and utilities
+tqdm>=4.60.0
+
+# System monitoring and profiling
+psutil>=5.8.0
+
+# Optional: Model analysis (uncomment if needed)
+# thop>=0.1.1
+
+# Development and debugging (optional)
+# tensorboard>=2.8.0
+# wandb>=0.12.0
